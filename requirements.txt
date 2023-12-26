@@ -1,0 +1,15 @@
+Django>=4.2
+djangorestframework
+django-cors-headers
+Pillow
+numpy
+pandas
+opencv-python
+pydicom
+scikit-learn
+torch
+torchvision
+matplotlib
+jupyter
+psycopg2-binary
+gunicorn
